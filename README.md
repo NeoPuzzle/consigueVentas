@@ -1,2 +1,2 @@
 # consigueVentas
-first
+Getting started with python
